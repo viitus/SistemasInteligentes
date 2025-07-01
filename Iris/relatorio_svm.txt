@@ -1,0 +1,18 @@
+Relatório - SVM (2 features)
+Features usadas: sepal length (cm), sepal width (cm)
+
+Matriz de Confusão:
+[[14  1  0]
+ [ 0  6  0]
+ [ 0  3  6]]
+
+Relatório de Classificação:
+              precision    recall  f1-score   support
+
+      setosa       1.00      0.93      0.97        15
+  versicolor       0.60      1.00      0.75         6
+   virginica       1.00      0.67      0.80         9
+
+    accuracy                           0.87        30
+   macro avg       0.87      0.87      0.84        30
+weighted avg       0.92      0.87      0.87        30

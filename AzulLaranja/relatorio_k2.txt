@@ -1,0 +1,14 @@
+Relatório para K = 2
+Matriz de Confusão:
+[[2 0]
+ [0 1]]
+
+Relatório de Classificação:
+              precision    recall  f1-score   support
+
+        Azul       1.00      1.00      1.00         2
+     Laranja       1.00      1.00      1.00         1
+
+    accuracy                           1.00         3
+   macro avg       1.00      1.00      1.00         3
+weighted avg       1.00      1.00      1.00         3

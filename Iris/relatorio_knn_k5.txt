@@ -1,0 +1,18 @@
+Relatório - KNN (k=5)
+Features usadas: sepal length (cm), sepal width (cm)
+
+Matriz de Confusão:
+[[14  1  0]
+ [ 0  4  2]
+ [ 0  3  6]]
+
+Relatório de Classificação:
+              precision    recall  f1-score   support
+
+      setosa       1.00      0.93      0.97        15
+  versicolor       0.50      0.67      0.57         6
+   virginica       0.75      0.67      0.71         9
+
+    accuracy                           0.80        30
+   macro avg       0.75      0.76      0.75        30
+weighted avg       0.82      0.80      0.81        30

@@ -1,0 +1,18 @@
+Relatório - Árvore de Decisão (2 features)
+Features usadas: sepal length (cm), sepal width (cm)
+
+Matriz de Confusão:
+[[14  1  0]
+ [ 2  4  0]
+ [ 1  4  4]]
+
+Relatório:
+              precision    recall  f1-score   support
+
+      setosa       0.82      0.93      0.88        15
+  versicolor       0.44      0.67      0.53         6
+   virginica       1.00      0.44      0.62         9
+
+    accuracy                           0.73        30
+   macro avg       0.76      0.68      0.67        30
+weighted avg       0.80      0.73      0.73        30

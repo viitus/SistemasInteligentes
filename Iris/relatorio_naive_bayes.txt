@@ -1,0 +1,18 @@
+Relatório - Naive Bayes (2 features)
+Features usadas: sepal length (cm), sepal width (cm)
+
+Matriz de Confusão:
+[[14  1  0]
+ [ 0  5  1]
+ [ 0  3  6]]
+
+Relatório de Classificação:
+              precision    recall  f1-score   support
+
+      setosa       1.00      0.93      0.97        15
+  versicolor       0.56      0.83      0.67         6
+   virginica       0.86      0.67      0.75         9
+
+    accuracy                           0.83        30
+   macro avg       0.80      0.81      0.79        30
+weighted avg       0.87      0.83      0.84        30
